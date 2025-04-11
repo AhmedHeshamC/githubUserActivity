@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Local development files
+*.local
