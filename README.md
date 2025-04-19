@@ -41,10 +41,19 @@ The tool will display appropriate error messages for:
 - API failures
 - Network issues
 
-## License
-
-MIT
-
 ## Project URLs
-https://roadmap.sh/projects/github-user-activity
-https://github.com/AhmedHeshamC/githubUserActivity
+- https://roadmap.sh/projects/github-user-activity
+- https://github.com/AhmedHeshamC/githubUserActivity
+
+## 🤝 Contributing
+
+1. Fork the repo
+2. Create feature branch
+3. Write tests
+4. Submit a PR
+
+Please adhere to the existing code style and coverage requirements.
+
+---
+
+© 2025 Ahmed Hesham. MIT License.
